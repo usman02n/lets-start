@@ -1,0 +1,12 @@
+// const nameWithWhitespace = "\t   John Doe \n";
+// console.log("Name with Whitespace:");
+// console.log(nameWithWhitespace);
+// const strippedName = nameWithWhitespace.trim();
+// console.log("\nStripped Name:");
+// console.log(strippedName);
+var whiteSapce = "\t     Usmna Ghani       \n";
+console.log("name with whitespce");
+console.log(whiteSapce);
+var strippedName = whiteSapce.trim();
+console.log(" name with stripped name");
+console.log(strippedName);
